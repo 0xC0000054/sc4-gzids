@@ -726,6 +726,7 @@ enum GZMSGID
 	kGZIID_cGZWinCtrlMgr = 0x22C2EB1F,
 	kGZIID_cS3DCamera = 0xE9C6262A,
 	kGZIID_cGZWinOptGrp = 0xA1336CC0,
+	kGZIID_cSC43DRender = 0x681bd529,
 //interface id end
 
 // budget group start
