@@ -728,6 +728,7 @@ enum GZMSGID
 	kGZIID_cGZWinOptGrp = 0xA1336CC0,
 	kGZIID_cSC43DRender = 0x681BD529,
 	kGZIID_cIGZPersistDBSegment = 0x656B8F0C.
+	kGZIID_cIGZPersistResource = 0x456B8F1D.
 //interface id end
 
 // budget group start
