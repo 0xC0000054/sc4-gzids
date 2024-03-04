@@ -546,6 +546,10 @@ enum GZMSGID
 	kGZCLSID_cGZScriptTerp = 0xBA2E7953,
 	kGZCLSID_cS3DCamera = 0xE9C6262A,
 	kGZCLSID_cSC4WinRegionScreen = 0xEA659793,
+	kGZCLSID_cGZPersistDBSegmentMultiPackedFiles = 0x90F8619,
+	kGZCLSID_cGZDBSegmentPackedFile = 0x86d4a89,
+	kGZCLSID_cSCResExemplarFactory = 0x453429B3,
+	kGZCLSID_cSCResExemplarCohortFactory = 0x53429C8,
 //CLSID end
 
 //cheats start
@@ -723,12 +727,14 @@ enum GZMSGID
 	kGZIID_cIGZSystemService = 0x287FB697,
 	kGZIID_cIGZWinMessageTarget = 0xC6AE7085,
 	kGZIID_cGZWinTextEdit = 0x231A1C57,
-	kGZIID_cGZWinCtrlMgr = 0x22C2EB1F,
+	kGZIID_cGZWinCtrlMgr = 0x22C2EB1F,	
 	kGZIID_cS3DCamera = 0xE9C6262A,
 	kGZIID_cGZWinOptGrp = 0xA1336CC0,
 	kGZIID_cSC43DRender = 0x681BD529,
-	kGZIID_cIGZPersistDBSegment = 0x656B8F0C.
-	kGZIID_cIGZPersistResource = 0x456B8F1D.
+	kGZIID_cIGZPersistDBSegment = 0x656B8F0C,
+	kGZIID_cIGZPersistResource = 0x456B8F1D,
+	kGZIID_cIGZPersistResourceFactory = 0xA56B8F17,
+	kGZIID_cIGZWinSpinner = 0x612CE0C3,
 //interface id end
 
 // budget group start
