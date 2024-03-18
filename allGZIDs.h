@@ -284,7 +284,7 @@ enum GZMSGID
 	kDefaultSysServiceID = 0x6406338,
 	kDefaultSysServiceID = 0x64FA8434,
 	kGZMessageServer2SysServiceID = 0x4FA845B,
-	kSysServiceID = 0x25076B9E,
+	kGZRegistrySysServiceID = 0x25076B9E,
 	kSC4AnimationTickManagerSysServiceId = 0x86AD10EC,
 	kSC424HourClockSysServiceId = 0xA7E7F92A,
 	kSC4SimulatorSysServiceId = 0x46956659,
@@ -736,6 +736,7 @@ enum GZMSGID
 	kGZIID_cIGZPersistResourceFactory = 0xA56B8F17,
 	kGZIID_cIGZWinSpinner = 0x612CE0C3,
 	kGZIID_cIGZWinBMP = 0xC12CEA13,
+	kGZIID_cIGZWinListBox = 0x4132242B,
 	kGZIID_cISC4ZoneManager = 0x67652433,
 //interface id end
 
