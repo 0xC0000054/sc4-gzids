@@ -738,6 +738,7 @@ enum GZMSGID
 	kGZIID_cIGZWinBMP = 0xC12CEA13,
 	kGZIID_cIGZWinListBox = 0x4132242B,
 	kGZIID_cISC4ZoneManager = 0x67652433,
+	kGZIID_cIGZRegistry = 0xA237613C,
 //interface id end
 
 // budget group start
