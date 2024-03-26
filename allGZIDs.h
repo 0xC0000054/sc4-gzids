@@ -547,7 +547,7 @@ enum GZMSGID
 	kGZCLSID_cS3DCamera = 0xE9C6262A,
 	kGZCLSID_cSC4WinRegionScreen = 0xEA659793,
 	kGZCLSID_cGZPersistDBSegmentMultiPackedFiles = 0x90F8619,
-	kGZCLSID_cGZDBSegmentPackedFile = 0x86d4a89,
+	kGZCLSID_cGZDBSegmentPackedFile = 0x86D4A89,
 	kGZCLSID_cSCResExemplarFactory = 0x453429B3,
 	kGZCLSID_cSCResExemplarCohortFactory = 0x53429C8,
 //CLSID end
@@ -739,6 +739,9 @@ enum GZMSGID
 	kGZIID_cIGZWinListBox = 0x4132242B,
 	kGZIID_cISC4ZoneManager = 0x67652433,
 	kGZIID_cIGZRegistry = 0xA237613C,
+	kGZIID_cIGZDBSegmentPackedFile = 0x286D4A6A,
+	kGZIID_cIGZPersistDBSerialRecord = 0xC56B8F08,
+	kGZIID_cIGZPersistDBRecord = 0xE56B8F03,
 //interface id end
 
 // budget group start
