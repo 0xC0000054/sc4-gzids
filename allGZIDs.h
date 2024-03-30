@@ -550,6 +550,7 @@ enum GZMSGID
 	kGZCLSID_cGZDBSegmentPackedFile = 0x86D4A89,
 	kGZCLSID_cSCResExemplarFactory = 0x453429B3,
 	kGZCLSID_cSCResExemplarCohortFactory = 0x53429C8,
+	kGZCLSID_cGZPersistBufferResourceFactory = 0x856DDBAC,
 //CLSID end
 
 //cheats start
