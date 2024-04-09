@@ -743,6 +743,7 @@ enum GZMSGID
 	kGZIID_cIGZDBSegmentPackedFile = 0x286D4A6A,
 	kGZIID_cIGZPersistDBSerialRecord = 0xC56B8F08,
 	kGZIID_cIGZPersistDBRecord = 0xE56B8F03,
+	kGZIID_cIGZGSnapshotExtension = 0xe69bfe2a,
 //interface id end
 
 // budget group start
