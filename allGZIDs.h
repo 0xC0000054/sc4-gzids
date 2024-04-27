@@ -552,6 +552,7 @@ enum GZMSGID
 	kGZCLSID_cSCResExemplarFactory = 0x453429B3,
 	kGZCLSID_cSCResExemplarCohortFactory = 0x53429C8,
 	kGZCLSID_cGZPersistBufferResourceFactory = 0x856DDBAC,
+	kGZCLSID_cGZDrawFontRenderer = 0x8B3255F9,
 //CLSID end
 
 //cheats start
@@ -747,6 +748,7 @@ enum GZMSGID
 	kGZIID_cIGZGSnapshotExtension = 0xE69BFE2A,
 	kGZIID_cIS3DResModel = 0x9AD0E7E3,
 	kGZIID_cIGZDrawSystem = 0x4B2EA3B3,
+	kGZIID_cIGZFontRenderer = 0xA8BC2A75,
 //interface id end
 
 // budget group start
