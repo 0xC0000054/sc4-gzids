@@ -294,7 +294,8 @@ enum GZMSGID
 	kGZIMEServerDefaultServiceID = 0x2AC45447,
 	kGZIMEProxyDefaultServiceID = 0x2AC45449,
 	kGZUIScriptServiceID = 0x5A356E15,
-	kGZMesageServer = 0x64063387
+	kGZMesageServerServiceID = 0x64063387,
+	kGZDrawSystemServiceID = 0xEB2EA3CB,
 //service id end
 
 //CLSID start
@@ -745,6 +746,7 @@ enum GZMSGID
 	kGZIID_cIGZPersistDBRecord = 0xE56B8F03,
 	kGZIID_cIGZGSnapshotExtension = 0xE69BFE2A,
 	kGZIID_cIS3DResModel = 0x9AD0E7E3,
+	kGZIID_cIGZDrawSystem = 0x4B2EA3B3,
 //interface id end
 
 // budget group start
