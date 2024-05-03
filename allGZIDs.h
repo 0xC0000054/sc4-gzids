@@ -749,6 +749,8 @@ enum GZMSGID
 	kGZIID_cIS3DResModel = 0x9AD0E7E3,
 	kGZIID_cIGZDrawSystem = 0x4B2EA3B3,
 	kGZIID_cIGZFontRenderer = 0xA8BC2A75,
+	kGZIID_cISC4DBSegment = 0x499899DA,
+	kGZIID_cISCResExemplar = 0xA52160F5,
 //interface id end
 
 // budget group start
