@@ -768,3 +768,27 @@ kDriverDirectX = 0xBADB6906
 kDriverOpenGL = 0xC4554841
 kDriverSoftware = 0x7ACA35C6
 // driver id end
+
+// view input control start
+kViewInputControlCityScroll = 0x48E2A1F8
+kViewInputControlCitySituations = 0xABEC6CFE
+kViewInputControlDemolish = 0x46DDB5F1
+kViewInputControlDispatch = 0x68E1900A
+kViewInputControlEffectDisaster = 0x6A40222A
+kViewInputControlFlora = 0x26D7881C
+kViewInputControlGameOfLife = 0x69701127
+kViewInputControlLabelTool = 0x8B3CE416
+kViewInputControlLevelTerrain = 0x88CEA620
+kViewInputControlPlaceBuilding = 0x678125E7
+kViewInputControlPlaceLot = 0x88F154FB
+kViewInputControlPlayerDrive = 0x2B709676
+kViewInputControlQuery = 0xC7AF928E
+kViewInputControlQueryTraffic = 0xC7AF928F
+kViewInputControlSignLabelDemolish = 0xCBCC987E
+kViewInputControlSignTool = 0x8B4CE5A0
+kViewInputControlTerrainScrubber = 0x68E29401 // All terraforming tools?
+kViewInputControlTollBooth = 0x8BFC65A7
+kViewInputControlTorch = 0xE9C24AC4
+kViewInputControlZone = 0xA766C101
+// view input control end
+ 
