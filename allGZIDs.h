@@ -261,6 +261,7 @@ enum GZMSGID
 	kMessageCheatIssued = 0x230E27AC,
 	kSC4MessageActiveDemandChanged = 0x426840A0,
 	kMessageVideoPreferencesChanged = 0xC9F775BB,
+	kSC4MessageGameDataRegistryChanged = 0x2BDFE414,
 }
 //messages end
 
