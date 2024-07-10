@@ -752,6 +752,7 @@ enum GZMSGID
 	kGZIID_cIGZFontRenderer = 0xA8BC2A75,
 	kGZIID_cISC4DBSegment = 0x499899DA,
 	kGZIID_cISCResExemplar = 0xA52160F5,
+	kGZIID_cISC4Lot = 0xE818FCED,
 //interface id end
 
 // budget group start
