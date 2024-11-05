@@ -690,6 +690,8 @@ enum GZMSGID
 	kGZIID_cISC4BuildingOccupant = 0x87DDA3A9,
 	kGZIID_cISC4AdviceSubject = 0x6A26D050,
 	kGZIID_cISCLua = 0xEA10C4A2,
+	kGZIID_cIGZLua5 = 0x6B2811A6,
+	kGZIID_cIGZLua5Thread = 0xEB2810F1,
 	kGZIID_cISC4NetworkOccupant = 0xA821EF94,
 	kGZIID_cIGZAllocatorService = 0x03AE4BEAB,
 	kGZIID_cISC4App = 0x26CE01C0,
@@ -753,6 +755,7 @@ enum GZMSGID
 	kGZIID_cISC4DBSegment = 0x499899DA,
 	kGZIID_cISCResExemplar = 0xA52160F5,
 	kGZIID_cISC4Lot = 0xE818FCED,
+	kGZIID_cIGZWinHTML = 0x4A11FD4A,
 //interface id end
 
 // budget group start
