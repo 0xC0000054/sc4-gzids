@@ -688,6 +688,7 @@ enum GZMSGID
 	kGZIID_cIGZSerializable = 0xE4FDA3D4,
 	kGZIID_cISC4Ordinance = 0xAA5E2247,
 	kGZIID_cISC4BuildingOccupant = 0x87DDA3A9,
+	kGZIID_cISC4Occupant = 0x26BB767E,
 	kGZIID_cISC4AdviceSubject = 0x6A26D050,
 	kGZIID_cISCLua = 0xEA10C4A2,
 	kGZIID_cIGZLua5 = 0x6B2811A6,
