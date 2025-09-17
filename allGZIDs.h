@@ -3,7 +3,8 @@
 enum GZMSGID 
 {
 	kMsgTypeToolTipTick = 0x533CCA1E,
-	kMsgMapChanged = 0x2A09B21,
+	kSC4MessageAuraSimCycleComplete = 0x2A09B21A,
+	kSC4MessageMoistureMapChanged = 0x09b6d58e,
 	kMsgWaterMapChanged = 0x6946DC3,
 	kMsgTransitStrikeCalledOff = 0x69247DC3,
 	kMsgTransitStrikeBegin = 0x69247DC4,
