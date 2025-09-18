@@ -284,7 +284,7 @@ enum GZMSGID
 	kGZLanguageManagerSysServiceID = 0x441E5070,
 	kDefaultSysServiceID = 0xA406334,
 	kDefaultSysServiceID = 0x6406338,
-	kDefaultSysServiceID = 0x64FA8434,
+	kGZMessageQueueManager2SysServiceID = 0x64FA8434,
 	kGZMessageServer2SysServiceID = 0x4FA845B,
 	kGZRegistrySysServiceID = 0x25076B9E,
 	kSC4AnimationTickManagerSysServiceId = 0x86AD10EC,
